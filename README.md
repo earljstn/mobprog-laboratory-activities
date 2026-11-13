@@ -15,4 +15,4 @@ I resolved the issue by choosing Google Chrome instead of Windows as my device f
 I learned that setting up Flutter requires the proper installation of tools, SDKs, and dependencies. I also learned how to use flutter doctor to check my setup and identify problems that need to be fixed.
 
 5. What practices will you follow to make future Flutter development easier?
-I will make sure that my Flutter SDK and development tools are updated and properly configured. I will also regularly run flutter doctor, check error messages, and test my applications on available devices to avoid problems in future projects.
+I will make sure that my Flutter SDK and development tools are updated and properly configured. I will also regularly run flutter doctor, check error messages, and test my applications on available devices to avoid problems in future projects.# mobprog-laboratory-activities
