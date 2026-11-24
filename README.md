@@ -20,4 +20,4 @@ I learned that setting up Flutter requires the proper installation of tools, SDK
 
 5. What practices will you follow to make future Flutter development easier?
 
-I will make sure that my Flutter SDK and development tools are updated and properly configured. I will also regularly run flutter doctor, check error messages, and test my applications on available devices to avoid problems in future projects.# mobprog-laboratory-activities
+I will make sure that my Flutter SDK and development tools are updated and properly configured. I will also regularly run flutter doctor, check error messages, and test my applications on available devices to avoid problems in future projects.
