@@ -1,0 +1,33 @@
+import 'package:material_ui/material_ui.dart';
+import 'package:flutter_screenutil/flutter_screenutil.dart';
+
+import 'screens/home_screen.dart';
+import 'screens/newsfeed_screen.dart';
+
+void main() {
+  runApp(const RolesFacebook());
+}
+
+class RolesFacebook extends StatelessWidget {
+  const RolesFacebook({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return ScreenUtilInit(
+      designSize: const Size(412, 715),
+      minTextAdapt: true,
+      splitScreenMode: true,
+      builder: (context, child) {
+        return MaterialApp(
+          debugShowCheckedModeBanner: false,
+          title: 'Facebook Replication',
+          initialRoute: '/home',
+          routes: {
+            '/newsfeed': (context) => const NewsFeedScreen(),
+            '/home': (context) => const HomeScreen(),
+          },
+        );
+      },
+    );
+  }
+}
