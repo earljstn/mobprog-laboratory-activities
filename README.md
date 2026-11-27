@@ -2,9 +2,6 @@
 
 A new Flutter project.
 
-
-
-
 Lab Activity 1: Discussion
 
 Integration of Images in the Newsfeed Card
